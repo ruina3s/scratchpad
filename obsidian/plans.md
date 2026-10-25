@@ -44,4 +44,14 @@ tags: [效率/笔记, 平台/windows, 开源]
 ---
 ```
 
+分类可以如下来分，之后会优化
+|英文分类	| 中文注解|
+|-------------------|------------------|
+|productivity-collaboration	|效率与协作|
+|creative-media	|创意与媒体|
+|development	|开发与编程|
+|system-security	|系统与安全|
+|learning-education	|学习与教育|
+|entertainment-life	|娱乐与生活|
+|industry-specific	|行业专用|
 
