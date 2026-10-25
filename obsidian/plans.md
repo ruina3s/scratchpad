@@ -35,12 +35,10 @@ main.md内按如此方式来编写：
 ---
 title: Obsidian
 type: software
-category: 效率与协作
-subcategory: 笔记
+category: productivity-collaboration
+category_label: 效率与协作
 platform: [windows, macos, linux]
-status: active
-last_verified: 2026-10-12
-tags: [效率/笔记, 平台/windows, 开源]
+official：()[]
 ---
 ```
 
